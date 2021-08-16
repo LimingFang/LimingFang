@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌟 I used to major in finance && economics, but i'm more passionate about computer science😄
+- 🔭 I’m currently working on rCore[os] and MIT6.824[Distributed Systems]
 
 <!--
 **LimingFang/LimingFang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
