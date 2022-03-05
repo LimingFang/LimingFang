@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌟 I used to major in finance && economics, but i'm more passionate about computer science😄
-- 🔭 I’m currently working on rCore[os] and TinyKV[PingCAP]
 - 😄 I like Emacs, c++ and rust, though not skilled.
 
 <!--
